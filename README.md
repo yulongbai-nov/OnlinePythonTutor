@@ -5,6 +5,15 @@ This tool was created by [Philip Guo](http://pgbovine.net/) in January 2010. [Se
 The latest development version of the code is in [v5-unity](v5-unity/),
 although lots of legacy documentation still resides in [v3](v3/).
 
+### 📚 Documentation
+
+**NEW: Comprehensive Technical Documentation**
+- **[Documentation Index](DOCUMENTATION_INDEX.md)** - Start here for an overview of all documentation
+- **[Technical Documentation](TECHNICAL_DOCUMENTATION.md)** - Complete technical reference (architecture, data flow, tech stack)
+- **[Architecture Diagrams](ARCHITECTURE_DIAGRAMS.md)** - Visual architecture and system design
+- **[VSCode Extension Feasibility](VSCODE_EXTENSION_FEASIBILITY.md)** - Detailed study on creating a VSCode plugin
+
+**Original Documentation**
 - [Unsupported features and known bugs](https://github.com/pgbovine/OnlinePythonTutor/blob/master/unsupported-features.md)
 - [Frequently Asked Questions](v3/docs/user-FAQ.md)
 - [Overview for Developers](v3/docs/developer-overview.md)
